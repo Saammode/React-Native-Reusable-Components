@@ -3,7 +3,7 @@ This is repository contain react-native components that can be reused over proje
 
 How to use components
 1. Offline
-    -> This component is used to detect internet connection react-native application
+    -> This component is used to detect internet connection react-native application /n
     -> Run `npm install @react-native-community/netinfo`
     -> Include this component in the screen where you want to show a red notification on top if u loose internet connectivity
     
